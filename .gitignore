@@ -23,3 +23,5 @@ env.bak/
 venv.bak/ 
 
 test*.sh
+# Local course Python environment
+backend/hangry_api/env38/
